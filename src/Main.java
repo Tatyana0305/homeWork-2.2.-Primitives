@@ -9,6 +9,7 @@ public class Main {
             System.out.println("Ваш бонус " + bonus + " рублей");
         } else {
             System.out.println("Ваш бонус 0 рублей");
+
         }
     }
 }
